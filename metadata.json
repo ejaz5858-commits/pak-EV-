@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EV Charge Pakistan",
+  "description": "EV Charging Station Locator tracking real-time availability and pricing in Pakistan with AI trip advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
